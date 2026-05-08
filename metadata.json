@@ -1,0 +1,10 @@
+{
+  "name": "Bomas POS",
+  "description": "Professional Point of Sale and Accounting system for Kenyan supermarkets with M-Pesa and Inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "pos",
+    "accounting",
+    "inventory"
+  ]
+}
